@@ -32,11 +32,8 @@ Then a map of locations with the ideal weather conditions of Temperatures betwee
 
 # Table of Contents:
 - [Introduction](#introduction)
-  
--- [WeatherPy](##WeatherPy)
-
--- [VacationPy](##VacationPy)
-
+  - [WeatherPy](##WeatherPy)
+  - [VacationPy](##VacationPy)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgemnets)
 - [Authors](#authors)
