@@ -28,12 +28,12 @@ In this deliverable, you'll find weather data to plan future vacations. Using Ju
 There's code included that imports the required libraries and loads the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.
 You'll find a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point scaled by the humidity in each city.
 
-Then a map of locations with the ideal weather conditions of Temperatures between 24 and 20 degrees, wind speeds of 5 to 10, cloudiness of less than 15%, and humidity between 30 to 50.
+Then a map of locations with the ideal weather conditions of Temperatures between 24 and 40 degrees, wind speeds of 6 to 20, and humidity between 40 and 85. A little bit hot and humid but with high wind speeds to make up for it making it the perfect beach weather. 
 
 # Table of Contents:
 - [Introduction](#introduction)
--- [WeatherPy](##WeatherPy)
--- [VacationPy](##VacationPy)
+  - [WeatherPy](##WeatherPy)
+  - [VacationPy](##VacationPy)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgemnets)
 - [Authors](#authors)
